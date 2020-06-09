@@ -65,6 +65,9 @@ epic_tragedy[:additional_characters] = []
 prince = {name: "Prince Escalus"}
 apothocary = {name: "Apothocary"}
 
+epic_tragedy[:additional_characters]<< {name:"Prince Escalus"}
+epic_tragedy[:additional_characters]<<{name:"Apothocary"}
+
 
 
 
